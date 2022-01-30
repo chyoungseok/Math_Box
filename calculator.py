@@ -4,3 +4,7 @@ def add(a, b):
 
 def subtract(a, b):
     return a-b
+
+def multiply(a, b):
+    # commit 수정하기
+    return a*b
